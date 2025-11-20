@@ -113,7 +113,7 @@
 1. 레포지토리 클론
 ```bash
 git clone https://github.com/yourID/netflix_analysis.git
-'''
+```
 2.라이브러리 설치
 '''
 pip install pandas matplotlib seaborn
