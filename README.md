@@ -91,7 +91,7 @@
 ## 🔗 7. 외부 URL
 
 - Netflix 공식 사이트: https://www.netflix.com  
-- 데이터 출처: Kaggle  
+- 데이터 출처: https://www.kaggle.com  
 - Python 공식문서: https://docs.python.org  
 - Matplotlib: https://matplotlib.org  
 
