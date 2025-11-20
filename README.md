@@ -99,5 +99,27 @@
 
 ## 💻 8. 코드 Push 안내
 
-본 프로젝트의 전체 분석 코드는 다음 파일에 포함됨:
+본 프로젝트에서 사용된 전체 분석 코드는 아래 파일에 포함되어 있습니다.
+
+- `netflix_analysis.py` : Netflix 데이터 전처리 및 시각화 분석 코드
+- `titles.csv` : Netflix 콘텐츠 데이터셋
+
+위 두 파일은 본 GitHub Repository에 모두 Push 완료하였습니다.
+
+코드를 수정하거나 분석을 재현하려면 다음과 같이 실행할 수 있습니다:
+
+### ▶️ 로컬에서 프로젝트 실행 방법
+
+1. 레포지토리 클론
+```bash
+git clone https://github.com/yourID/netflix_analysis.git
+
+2.라이브러리 설치
+
+pip install pandas matplotlib seaborn
+
+3.분석 코드 실행
+
+python netflix_analysis.py
+
 
