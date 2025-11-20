@@ -114,12 +114,14 @@
 ```bash
 git clone https://github.com/yourID/netflix_analysis.git
 ```
+
 2.라이브러리 설치
-'''
+```bash
 pip install pandas matplotlib seaborn
-'''
+```
+
 3.분석 코드 실행
-'''
+```bash
 python netflix_analysis.py
-'''
+```
 
